@@ -1,0 +1,89 @@
+2023-11-09T14:45:18.265+01:00  INFO 80592 --- [Thread-335] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:45:21.231+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:45:21.232+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:45:22.177+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:45:22.178+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:45:22.210+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:45:22.928+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 1.89 seconds (process running for 269772.067)
+2023-11-09T14:45:22.929+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Serveur run
+2023-11-09T14:45:54.970+01:00  INFO 80592 --- [Thread-339] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:45:55.093+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:45:55.093+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:45:55.462+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:45:55.462+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:45:55.478+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:45:55.603+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.56 seconds (process running for 269804.742)
+2023-11-09T14:45:55.604+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Serveur run
+2023-11-09T14:45:57.040+01:00  INFO 80592 --- [Thread-343] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:45:57.101+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:45:57.102+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:45:57.267+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:45:57.268+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:45:57.284+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:45:57.393+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.319 seconds (process running for 269806.533)
+2023-11-09T14:45:57.395+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Serveur run
+2023-11-09T14:45:58.904+01:00  INFO 80592 --- [Thread-347] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:45:59.130+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:45:59.131+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:45:59.282+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:45:59.283+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:45:59.295+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:45:59.403+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.298 seconds (process running for 269808.542)
+2023-11-09T14:45:59.404+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Serveur run
+2023-11-09T14:46:02.867+01:00  INFO 80592 --- [Thread-351] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:46:02.938+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:46:02.939+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:46:03.107+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:46:03.108+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:46:03.122+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:46:03.228+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.318 seconds (process running for 269812.367)
+2023-11-09T14:46:03.229+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Serveur run
+2023-11-09T14:47:59.368+01:00  INFO 80592 --- [Thread-355] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:48:02.030+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:48:02.040+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:48:02.261+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:48:02.262+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:48:02.278+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:48:02.459+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.618 seconds (process running for 269931.598)
+2023-11-09T14:48:09.978+01:00  INFO 80592 --- [Thread-363] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:48:10.051+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:48:10.053+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:48:10.273+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:48:10.273+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:48:10.291+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:48:10.506+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.491 seconds (process running for 269939.645)
+2023-11-09T14:48:11.952+01:00  INFO 80592 --- [Thread-367] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:48:12.032+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:48:12.033+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:48:12.187+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:48:12.187+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:48:12.356+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:48:12.467+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.46 seconds (process running for 269941.606)
+2023-11-09T14:48:20.017+01:00  INFO 80592 --- [Thread-371] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:48:20.104+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:48:20.105+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:48:20.248+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:48:20.249+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:48:20.263+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:48:20.404+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.327 seconds (process running for 269949.543)
+2023-11-09T14:49:15.401+01:00  INFO 80592 --- [Thread-375] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:49:15.554+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:49:15.554+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:49:15.785+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:49:15.785+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:49:15.799+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:49:16.006+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.482 seconds (process running for 270005.144)
+2023-11-09T14:49:19.481+01:00  INFO 80592 --- [Thread-379] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:49:19.622+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:49:19.624+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:49:19.812+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:49:19.812+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:49:19.879+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:49:20.043+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.451 seconds (process running for 270009.182)
+2023-11-09T14:49:21.466+01:00  INFO 80592 --- [Thread-383] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-11-09T14:49:21.541+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Starting SpringFileApplication using Java 20.0.2 with PID 80592 (C:\Users\gpetemoya\Documents\projets\github\spring-file\target\classes started by gpetemoya in C:\Users\gpetemoya\Documents\projets\github\spring-file)
+2023-11-09T14:49:21.542+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T14:49:21.690+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T14:49:21.691+01:00  INFO 80592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T14:49:21.704+01:00  INFO 80592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T14:49:21.813+01:00  INFO 80592 --- [restartedMain] c.plg.springfile.SpringFileApplication   : Started SpringFileApplication in 0.299 seconds (process running for 270010.952)
